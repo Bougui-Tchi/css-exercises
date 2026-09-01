@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.oddnumbers{
+    background-color: lightpink;
+    font-family: Verdana, DejaVus sans, sans-serif;
+
+}
+#aa{
+    color: blue;
+    font-size: 36px;
+}
+.oddnumbers.third {
+    font-size: 24px;
+}
+#bb{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
