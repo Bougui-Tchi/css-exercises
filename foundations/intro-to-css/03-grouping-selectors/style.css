@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.n1{
+background-color: black;
+color: white;
+}
+.n2{
+    background-color: yellow;
+    color: black;
+}
+.n1
+.n2{
+    font-size: 28px;
+    font-family: helvetica, "times new roman", sans-serif;
+}
